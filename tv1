@@ -108,6 +108,3 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" tvg-country="KR" tvg-url="" group-title="한국",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
-#EXTINF:0 tvg-name="M Net" tvg-language="Korean" tvg-country="MY" tvg-id="M Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/200px-Music_Makes_One_Mnet_Logo.png" group-title="Entertainment",M Net (Entertainment) (MY) (Korean)
-http://ios.live.mnet.gscdn.com/liveIPhoneMNETsD/protected/liveIPhoneMNET2s_1000k.stream/chunklist_w0.m3u8?tid=0
