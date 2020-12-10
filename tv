@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="日本",NHK総合
+#EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="日本",NHK総合
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK教育
 http://203.162.235.41:16901
