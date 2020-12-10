@@ -108,3 +108,85 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" tvg-country="KR" tvg-url="" group-title="한국",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+
+#EXTINF:-1,CGN
+http://139.99.136.95:111/cgn/video.m3u8
+#EXTINF:-1,Disney HD
+http://139.99.136.95:111/disney/video.m3u8
+#EXTINF:-1,TVN HD
+http://139.99.136.95:111/tvn/video.m3u8
+#EXTINF:-1,YTN HD
+http://139.99.136.95:111/ytn/video.m3u8
+#EXTINF:-1,EBS1
+http://139.99.136.95:111/ebs1/video.m3u8
+#EXTINF:-1,BBS
+http://139.99.136.95:111/bbs/video.m3u8
+#EXTINF:-1,CPBC
+http://139.99.136.95:111/cpbc/video.m3u8
+#EXTINF:-1,CTS HD
+http://139.99.136.95:111/cts/video.m3u8
+#EXTINF:-1,CBS
+http://139.99.136.95:111/cbs/video.m3u8
+#EXTINF:-1,KBS1 HD
+http://139.99.136.95:111/kbs1/video.m3u8
+#EXTINF:-1,KBS2
+http://139.99.136.95:111/kbs2/video.m3u8
+#EXTINF:-1,SBS HD
+http://139.99.136.95:111/sbs/video.m3u8
+#EXTINF:-1,SBS GOLF HD
+http://139.99.136.95:111/sbsgolf/video.m3u8
+#EXTINF:-1,SBS SPORTS HD
+http://139.99.136.95:111/sbssports/video.m3u8
+#EXTINF:-1,SPO TV HD
+http://139.99.136.95:111/spotv/video.m3u8
+#EXTINF:-1,FTV HD
+http://139.99.136.95:111/ftv/video.m3u8
+#EXTINF:-1,CHANNEL A HD
+http://139.99.136.95:111/channela/video.m3u8
+#EXTINF:-1,JTBC HD
+http://139.99.136.95:111/jtbc/video.m3u8
+#EXTINF:-1,MBC HD
+http://139.99.136.95:111/mbc/video.m3u8
+#EXTINF:-1,MBC SPORTS HD
+http://139.99.136.95:111/mbcsports/video.m3u8
+#EXTINF:-1,MBN HD
+http://139.99.136.95:111/mbn/video.m3u8
+#EXTINF:-1,OCN HD
+http://139.99.136.95:111/ocn/video.m3u8
+#EXTINF:-1,MNET HD
+http://139.99.136.95:111/mnet/video.m3u8
+#EXTINF:-1,OLIVE HD
+http://139.99.136.95:111/olive/video.m3u8
+#EXTINF:-1,TOONIVERSE HD
+http://139.99.136.95:111/tooniverse/video.m3u8
+#EXTINF:-1,TV CHOSUN HD
+http://139.99.136.95:111/tvchosun/video.m3u8
+#EXTINF:-1,MBC SPORTS2 HD
+http://139.99.136.95:111/mbcsports2/video.m3u8
+#EXTINF:-1,SKY SPORTS HD
+http://139.99.136.95:111/skysports/video.m3u8
+#EXTINF:-1,SUPER ACTION HD
+http://139.99.136.95:111/superaction/video.m3u8
+#EXTINF:-1,IB SPORTS HD
+http://139.99.136.95:111/ibsports/video.m3u8
+#EXTINF:-1,GO TV
+http://139.99.136.95:111/gotv/video.m3u8
+#EXTINF:-1,KBSN SPORTS HD
+http://139.99.136.95:111/kbsnsports/video.m3u8
+#EXTINF:-1,JTBC3 HD
+http://139.99.136.95:111/jtbc3/video.m3u8
+#EXTINF:-1,JTBC Golf HD
+http://139.99.136.95:111/jtbcgolf/video.m3u8
+#EXTINF:-1,JTBC2 HD
+http://139.99.136.95:111/jtbc2/video.m3u8
+#EXTINF:-1,CJ
+http://139.99.136.95:111/cj/video.m3u8
+#EXTINF:-1,QS
+http://139.99.136.95:111/gs/video.m3u8
+#EXTINF:-1,EBS2
+http://139.99.136.95:111/ebs2/video.m3u8
+#EXTINF:-1,SPO TV 2 HD
+http://139.99.136.95:111/spotv2/video.m3u8
+#EXTINF:-1,Billiards TV
+http://139.99.136.95:111/billiards/video.m3u8
