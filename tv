@@ -8,12 +8,11 @@ http://203.162.235.41:16901
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="JAPAN",NHK World Premium
 http://203.162.235.41:16901
-#EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
-http://203.162.235.41:16910
-
-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
+http://203.162.235.41:16910
 
 #EXTINF:-1 tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日本",テレビ朝日
 http://203.162.235.41:16906
@@ -47,7 +46,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="JAPAN",MBS (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="JAPAN",MBS
 http://203.162.235.41:16910
 
 
