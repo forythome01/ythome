@@ -11,15 +11,13 @@ http://203.162.235.41:16906
 http://203.162.235.41:16908
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBSテレビ
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="日本",MBS
-http://203.162.235.41:16910
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="日本",NHK General 
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK教育
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="BS1.JP" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_nhkbs1.jpg" group-title="日本",NHK BS1
-http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
+http://220.158.149.28:8180
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="日本",NHK World Premium
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
