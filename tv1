@@ -109,3 +109,16 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/cartoon-network.png" ,Cartoon Network
+http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=069ed49eef9afc10363a7c73c4d183194fc285119620ab725c87450eed35fd35523acbe58a96579648534a8345ef0ba98462440babdde147a0f8159054a043e1
+http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=6ca19517a45c8d668e32f2fc67fa7e489f693305a76491e9874da6a21e519b7b165f12a5ee2274a4cef7e67ddf457ff1605062bc135a7bd424dd297c6e5f1a63
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-abc.png" ,TVP ABC
+http://internetowa.tv/?c=hlsPlay&channel=tvpabc&token=069ed49eef9afc10363a7c73c4d183194fc285119620ab725c87450eed35fd35523acbe58a96579648534a8345ef0ba98462440babdde147a0f8159054a043e1
+http://internetowa.tv/?c=hlsPlay&channel=tvpabc&token=6ca19517a45c8d668e32f2fc67fa7e489f693305a76491e9874da6a21e519b7b165f12a5ee2274a4cef7e67ddf457ff1605062bc135a7bd424dd297c6e5f1a63
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/disney-junior.png" ,Disney Junior
+http://internetowa.tv/?c=hlsPlay&channel=disneyjunior&token=069ed49eef9afc10363a7c73c4d183194fc285119620ab725c87450eed35fd35523acbe58a96579648534a8345ef0ba98462440babdde147a0f8159054a043e1
+http://internetowa.tv/?c=hlsPlay&channel=disneyjunior&token=6ca19517a45c8d668e32f2fc67fa7e489f693305a76491e9874da6a21e519b7b165f12a5ee2274a4cef7e67ddf457ff1605062bc135a7bd424dd297c6e5f1a63
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/mtv.png" ,MTV
+http://internetowa.tv/?c=hlsPlay&channel=mtvpolska&token=069ed49eef9afc10363a7c73c4d183194fc285119620ab725c87450eed35fd35523acbe58a96579648534a8345ef0ba98462440babdde147a0f8159054a043e1
