@@ -28,7 +28,7 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NHK_Plus_logo.svg/512px-NHK_Plus_logo.svg.png" group-title="日本",NHK Plus
-https://plus.nhk.jp/watch/ch/e1
+http://plus.nhk.jp/watch/ch/e1
 
 
 
