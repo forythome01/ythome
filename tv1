@@ -16,7 +16,6 @@ http://203.162.235.41:16907
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK教育
 http://203.162.235.41:16901
-#EXTINF:-1 tvg-id="BS1.JP" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_nhkbs1.jpg" group-title="日本",NHK BS1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="日本",NHK World Premium
 http://203.162.235.41:16901
@@ -26,10 +25,6 @@ http://203.162.235.41:16910
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="日本",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KANSAI TV" tvg-logo="https://i1.wp.com/test-bucket-dfn.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/11/25110216/Kansai-TV-Logo-358x292-ORIGINAL.png?ssl=1" group-title="日本",Kansai TV
-http://122.155.180.8:5021/live/323
-
 
 #EXTINF:-1 tvg-id="BST.JP" tvg-logo="https://static.epg.best/jp/BSTBS.jp.png" group-title="日本",BS TBS
 http://203.162.235.41:16913
