@@ -29,8 +29,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KANSAI TV" tvg-logo="https://i1.wp.com/test-bucket-dfn.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/11/25110216/Kansai-TV-Logo-358x292-ORIGINAL.png?ssl=1" group-title="日本",Kansai TV
 http://122.155.180.8:5021/live/323
-#EXTINF:-1 tvg-id="" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png" group-title="日本",MBS
-http://122.155.180.8:5021/live/319
+
 
 #EXTINF:-1 tvg-id="BST.JP" tvg-logo="https://static.epg.best/jp/BSTBS.jp.png" group-title="日本",BS TBS
 http://203.162.235.41:16913
