@@ -110,8 +110,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
 
-#EXTINF:-1, == SULUK UK ==
-https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+
 #EXTINF:-1,JP: NHK WORLD PREMIUM
 http://122.155.180.8:5021/live/139
 #EXTINF:-1,JP: KANTO - NHK G
