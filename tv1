@@ -21,8 +21,8 @@ http://203.162.235.41:16901
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
 http://203.162.235.41:16910
-#EXTINF:-1 tvg-id="BS1.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="日本",NHK BS1
-http://122.155.180.8:5021/live/301
+#EXTINF:-1 tvg-id="BS1.JP" tvg-logo="https://av.watch.impress.co.jp/img/avw/docs/436/256/bs1.jpg" group-title="日本",NHK BS1
+http://122.155.180.8:5021
 #EXTINF:-1 tvg-id="" tvg-name="NHK Chinese Vision" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="日本",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="日本",NHK World
