@@ -1,0 +1,112 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="日本",フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-id="Kansai TV" tvg-name="Kansai TV" tvg-logo="https://test-bucket-dfn.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/11/25110216/Kansai-TV-Logo-358x292-ORIGINAL.png" group-title="日本",Kansai TV
+http://122.155.180.8:5021/live/323
+#EXTINF:-1 tvg-id="NIP.JP" tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="日本",日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日本",テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="TOK.JP" tvg-logo="https://i.imgur.com/vgEnHX6.png" group-title="日本",テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/200px-Mainichi_Broadcasting_System_logo.svg.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/319
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="日本",NHK General 
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK教育
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="日本",NHK World Premium
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-id="BS1.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/NHK_BS1_logo.svg" group-title="日本",NHK BS1
+http://203.162.235.41:16909
+#EXTINF:-1 tvg-id="BSP.JP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本",NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-id="" tvg-name="NHK Chinese Vision" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="日本",NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="日本",NHK World
+http://203.162.235.41:16902
+
+
+
+
+#EXTINF:-1 tvg-id="BST.JP" tvg-logo="https://static.epg.best/jp/BSTBS.jp.png" group-title="日本",BS TBS
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-id="BSA.JP" tvg-logo="https://www.bs-asahi.co.jp/wordpress/wp-content/themes/bs-master/img/no_image.png" group-title="日本",BS 朝日
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-id="BSF.JP" tvg-logo="https://www.bsfuji.tv/top/common/img/head_logo.png" group-title="日本",BSフジ
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-id="BTK.JP" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg" group-title="日本",BS 東京
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-id="BSN.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日本",BS 日テレ
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_1.jpg" group-title="日本", WOWOW プライム
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日本",日テレNEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="日本",QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/s6f0LgS.jpg" tvg-country="JP" tvg-url="" group-title="日本",BBC News Japan
+https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-logo="https://i.imgur.com/zilI4I3.jpg" group-title="日本",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GSTV" tvg-logo="https://i.imgur.com/PQPIMEf.jpg" group-title="日本",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Lt2tCwo.png" group-title="日本",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hiroshima Weather Information" tvg-logo="https://i.imgur.com/ZoYNgdd.png" group-title="日本",Hiroshima Weather Information
+https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Japanet Channel DX" tvg-logo="https://i.imgur.com/KVralKI.png" group-title="日本",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MX Live (Webcam)" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="日本",MX Live (Webcam)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Japan" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="日本",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="日本",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="日本",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="日本",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-logo="https://i.imgur.com/hoRB8Gc.png" group-title="日本",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" tvg-country="KR" tvg-url="" group-title="한국",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="한국",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090022.png" tvg-country="KR" tvg-url="" group-title="한국",CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/UvRoc22.png" tvg-country="KR" tvg-url="" group-title="한국",Edaily TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/pIOBbqT.png" tvg-country="KR" tvg-url="" group-title="한국",Fishing TV
+http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/FCFAAJb.png" tvg-country="KR" tvg-url="" group-title="한국",Hallypop
+https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/QMDDHd1.gif" tvg-country="KR" tvg-url="" group-title="한국",MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/loWf3B5.jpg" tvg-country="KR" tvg-url="" group-title="한국",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/JNmRU3V.png" tvg-country="KR" tvg-url="" group-title="한국",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/lJdOstp.png" tvg-country="KR" tvg-url="" group-title="한국",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" tvg-country="KR" tvg-url="" group-title="한국",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/wqlTcbI.png" tvg-country="KR" tvg-url="" group-title="한국",TBS
+https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/xLL7Sxm.png" tvg-country="KR" tvg-url="" group-title="한국",TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN DMB" tvg-language="Korean" tvg-logo="https://i.imgur.com/fdFQonN.jpg" tvg-country="KR" tvg-url="" group-title="한국",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" tvg-country="KR" tvg-url="" group-title="한국",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
