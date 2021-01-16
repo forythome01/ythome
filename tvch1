@@ -13,8 +13,30 @@ http://203.162.235.41:16906
 http://203.162.235.41:16908
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBSテレビ
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/200px-Mainichi_Broadcasting_System_logo.svg.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
 http://122.155.180.8:5021/live/319
+
+
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/313
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/314
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/3115
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/316
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/317
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/318
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/320
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/321
+#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+http://122.155.180.8:5021/live/322
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="日本",NHK General 
 http://203.162.235.41:16903
