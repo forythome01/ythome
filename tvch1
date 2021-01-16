@@ -17,23 +17,23 @@ http://203.162.235.41:16907
 http://122.155.180.8:5021/live/319
 
 
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS2" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS2
 http://122.155.180.8:5021/live/313
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS3" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS3
 http://122.155.180.8:5021/live/314
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS4" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS4
 http://122.155.180.8:5021/live/3115
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS5" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS5
 http://122.155.180.8:5021/live/316
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS6" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS6
 http://122.155.180.8:5021/live/317
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS7" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS7
 http://122.155.180.8:5021/live/318
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS8" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS8
 http://122.155.180.8:5021/live/320
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS9" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS9
 http://122.155.180.8:5021/live/321
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
+#EXTINF:-1 tvg-id="MBS10" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS10
 http://122.155.180.8:5021/live/322
 
 
