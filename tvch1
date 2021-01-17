@@ -29,9 +29,10 @@ http://122.155.180.8:5021/live/316
 http://122.155.180.8:5021/live/317
 #EXTINF:-1 tvg-id="MBS7" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS7
 http://122.155.180.8:5021/live/318
-#EXTINF:-1 tvg-id="MBS8" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS8
+
+#EXTINF:-1 tvg-id="SUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="日本",SUN
 http://122.155.180.8:5021/live/320
-#EXTINF:-1 tvg-id="MBS9" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS9
+#EXTINF:-1 tvg-id="6ABC" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png" group-title="日本",ABC TV Osaka
 http://122.155.180.8:5021/live/321
 #EXTINF:-1 tvg-id="OSAKATV" tvg-logo="https://i.ibb.co/Rz4GH42/tvo.png" group-title="日本",TV OSAKA
 http://122.155.180.8:5021/live/322
