@@ -17,14 +17,7 @@ http://203.162.235.41:16907
 http://122.155.180.8:5021/live/319
 
 
-#EXTINF:-1 tvg-id="MBS2" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS2
-http://122.155.180.8:5021/live/313
-#EXTINF:-1 tvg-id="MBS3" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS3
-http://122.155.180.8:5021/live/314
-#EXTINF:-1 tvg-id="MBS4" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS4
-http://122.155.180.8:5021/live/3115
-#EXTINF:-1 tvg-id="MBS5" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS5
-http://122.155.180.8:5021/live/316
+
 #EXTINF:-1 tvg-id="MBS6" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS6
 http://122.155.180.8:5021/live/317
 #EXTINF:-1 tvg-id="MBS7" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS7
@@ -34,7 +27,7 @@ http://122.155.180.8:5021/live/318
 http://122.155.180.8:5021/live/320
 #EXTINF:-1 tvg-id="6ABC" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png" group-title="日本",ABC TV Osaka
 http://122.155.180.8:5021/live/321
-#EXTINF:-1 tvg-id="OSAKATV" tvg-logo="https://i.ibb.co/Rz4GH42/tvo.png" group-title="日本",TV OSAKA
+#EXTINF:-1 tvg-id="tvo" tvg-logo="https://i.ibb.co/Rz4GH42/tvo.png" group-title="日本",TV OSAKA
 http://122.155.180.8:5021/live/322
 
 
@@ -54,6 +47,15 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="日本",NHK World
 http://203.162.235.41:16902
 
+#EXTINF:-1 tvg-id="WOWPRIME.JP" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_1.jpg" group-title="日本", WOWOW プライム
+http://203.162.235.41:16916
+
+#EXTINF:-1 tvg-id="WOWPRIME.JP" tvg-logo="https://cdn.wowow.co.jp/common/base/img/thumb_logo.jpg" group-title="日本",WOWOW プライム (PRIME) 2
+http://122.155.180.8:5021/live/325
+#EXTINF:-1 tvg-id="WOWLIVE.JP" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_2.jpg" group-title="日本",WOWOW ライブ (LIVE)
+http://122.155.180.8:5021/live/205
+#EXTINF:-1 tvg-id="WOWCIN.JP" tvg-logo="https://www.wowowplus.jp/parts/notice_channelname/img/logo.png" group-title="日本",WOWOW シネフィル(CINEFIL WOWOW)
+http://122.155.180.8:5021/live/209
 
 
 
@@ -67,8 +69,8 @@ http://203.162.235.41:16911
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="BSN.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日本",BS 日テレ
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_1.jpg" group-title="日本", WOWOW プライム
-http://203.162.235.41:16916
+
+
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日本",日テレNEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="日本",QVC Japan
