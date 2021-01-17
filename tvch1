@@ -50,11 +50,9 @@ http://203.162.235.41:16902
 #EXTINF:-1 tvg-id="WOWPRIME.JP" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_1.jpg" group-title="日本", WOWOW プライム
 http://203.162.235.41:16916
 
-#EXTINF:-1 tvg-id="WOWPRIME.JP" tvg-logo="https://cdn.wowow.co.jp/common/base/img/thumb_logo.jpg" group-title="日本",WOWOW プライム (PRIME) 2
-http://122.155.180.8:5021/live/325
-#EXTINF:-1 tvg-id="WOWLIVE.JP" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_2.jpg" group-title="日本",WOWOW ライブ (LIVE)
+#EXTINF:-1 tvg-id="WOWLIVE.JP" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_2.jpg" group-title="日本",WOWOW ライブ
 http://122.155.180.8:5021/live/205
-#EXTINF:-1 tvg-id="WOWCIN.JP" tvg-logo="https://www.wowowplus.jp/parts/notice_channelname/img/logo.png" group-title="日本",WOWOW シネフィル(CINEFIL WOWOW)
+#EXTINF:-1 tvg-id="WOWCIN.JP" tvg-logo="https://www.wowowplus.jp/parts/notice_channelname/img/logo.png" group-title="日本",WOWOW シネフィル
 http://122.155.180.8:5021/live/209
 
 
