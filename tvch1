@@ -33,7 +33,7 @@ http://122.155.180.8:5021/live/318
 http://122.155.180.8:5021/live/320
 #EXTINF:-1 tvg-id="MBS9" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS9
 http://122.155.180.8:5021/live/321
-#EXTINF:-1 tvg-id="MBS10" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS10
+#EXTINF:-1 tvg-id="OSAKATV" tvg-logo="https://i.ibb.co/Rz4GH42/tvo.png" group-title="日本",TV OSAKA
 http://122.155.180.8:5021/live/322
 
 
