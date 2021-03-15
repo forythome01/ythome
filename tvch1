@@ -13,15 +13,7 @@ http://203.162.235.41:16906
 http://203.162.235.41:16908
 #EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",TBSテレビ
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-id="MBS" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS
-http://122.155.180.8:5021/live/319
 
-
-
-#EXTINF:-1 tvg-id="MBS6" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS6
-http://122.155.180.8:5021/live/317
-#EXTINF:-1 tvg-id="MBS7" tvg-logo="https://asianwiki.com/images/8/80/MBS-p01.png" group-title="日本",MBS7
-http://122.155.180.8:5021/live/318
 
 #EXTINF:-1 tvg-id="SUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="日本",SUN
 http://122.155.180.8:5021/live/320
