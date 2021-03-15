@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="フジテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png" group-title="日本1",フジテレビ
+
+http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレ" tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="日本1",日テレ
+http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ朝日" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日本1",テレビ朝日
+http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="テレビ東京" tvg-logo="https://i.imgur.com/vgEnHX6.pngg" group-title="日本1",テレビ東京
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TBS" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本1",TBSテレビ
+http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK総合・東京" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="日本1",NHK総合・東京
+http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHKEテレ東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本1",NHKEテレ東京
+http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHKBS1" tvg-logo="https://i.ibb.co/9gpTpjj/bs1.png" group-title="日本1",NHK BS1
+http://redlabmcdn.s.llnwi.net/jp01/bs01/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHKBSプレミアム" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg" group-title="日本1",NHK BSP
+http://redlabmcdn.s.llnwi.net/jp01/bs02/index.m3u8
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWシネマ" tvg-logo="https://www.ktknet.ne.jp/wp/wp-content/themes/ktktheme/img/catv/icon-bs/bs09-3.jpg" group-title="日本1",WOWOWシネマ
+http://redlabmcdn.s.llnwi.net/jp01/cs07/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWプライム" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_1.jpg" group-title="日本1",WOWOWプライム
+http://redlabmcdn.s.llnwi.net/jp01/wow2/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="WOWOWライブ" tvg-logo="https://www.route-inn.co.jp/wowow/img/img-text_2.jpg" group-title="日本1",WOWOWライブ
+http://redlabmcdn.s.llnwi.net/jp01/wow1/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BS日テレ" tvg-logo="https://yt3.ggpht.com/a/AATXAJzwP_lpjmtrb_UB_edxK-JUH0DjJakeZK3q55Ud=s100-c-k-c0xffffffff-no-rj-mo" group-title="日本1",BS日テレ
+http://redlabmcdn.s.llnwi.net/jp01/bs03/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BS朝日" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs5.png" group-title="日本1",BS朝日
+http://redlabmcdn.s.llnwi.net/jp01/bs04/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BS‐TBS" tvg-logo="https://onecareer.imgix.net/uploads/company/square_logo/86305/bstbs_200x200.png?ixlib=rails-3.0.2&auto=format&fit=max" group-title="日本1",BS‐TBS
+http://redlabmcdn.s.llnwi.net/jp01/bs05/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/lxegMYe.png" group-title="日本1",BSテレ東
+http://redlabmcdn.s.llnwi.net/jp01/bs06/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BSフジ" tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="日本1",BSフジ
+http://redlabmcdn.s.llnwi.net/jp01/bs07/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BS12トゥエルビ" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBylRbX35jsFbkxCyms1_RAnxChEDIugJMdlg=s900-mo-c-c0xffffffff-rj-k-no" group-title="日本1",BS12トゥエルビ
+http://redlabmcdn.s.llnwi.net/jp01/bs08/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="BSアニマックス" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="日本1",BSアニマックス
+http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="ディズニーチャンネル" tvg-logo=" https://www.disney.co.jp/tv/dc/timetable/english/_jcr_content/par/pickup_box_same_1_si/image.img.jpg/1566354492984.jpg" group-title="日本1",ディズニーチャンネル
+http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="キッズステーション" tvg-logo="https://www.kids-station.com/sites/jp.kids/files/logo_0.png" group-title="日本1",キッズステーション
+http://redlabmcdn.s.llnwi.net/jp01/cs04/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="TOKYO MX tvg-logo=" https://ddnavi.com/wp-content/uploads/2014/06/mx_eye.jpg " group-title="日本1",TOKYO MX 1
+http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="スターチャンネル１" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" group-title="日本1",スターチャンネル１
+http://redlabmcdn.s.llnwi.net/jp01/bs09/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="スターチャンネル２" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png" group-title="日本1",スターチャンネル２
+http://redlabmcdn.s.llnwi.net/jp01/bs10/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="日本1",J SPORTS 1
+http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 2" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="日本1",J SPORTS 2
+http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 3 tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="日本1",J SPORTS 3
+http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="J SPORT 4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="日本1",J SPORTS 4
+http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
+
+
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="日テレジータス" tvg-logo=" https://pbs.twimg.com/profile_images/1212517111446171651/H_9ZOvS9_400x400.jpg" group-title="日本1",日テレジータス
+http://redlabmcdn.s.llnwi.net/jp01/cs01/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="GOLF NETWORK" tvg-logo=" https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png " group-title="日本1",GOLF NETWORK
+http://redlabmcdn.s.llnwi.net/jp01/cs03/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="Discovery Channel" tvg-logo=" https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png " group-title="日本1",Discovery Channel
+http://redlabmcdn.s.llnwi.net/jp01/cs06/index.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="映画・チャンネルNEKO" tvg-logo=" https://www.necoweb.com/neco/assets/images/og.png " group-title="日本1",映画・チャンネルNEKO
+http://redlabmcdn.s.llnwi.net/jp01/cs05/index.m3u8
+
