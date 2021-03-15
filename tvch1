@@ -135,9 +135,9 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Music", MTV Live HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/125px-MTV_Live_HD_2017_logo.svg.png" group-title="Music", MTV Live HD
 https://origin-02.nxplay.com.br/MTVNI_HD_NX/index.m3u8
 
-#EXTINF:-1 group-title="Music", VH1
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/33-330153_vh1-logo-png-transparent-png.png" group-title="Music", VH1
 https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
 
