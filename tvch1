@@ -93,7 +93,8 @@ https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 
-
+#EXTINF:-1  group-title="한국" tvg-logo="https://imgstatic.vtvcab.vn/logos/KBS_WORLD_M.png",KBS World
+https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" tvg-country="KR" tvg-url="" group-title="한국",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="한국",CBS
