@@ -17,27 +17,3 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
 #EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Deathly Hallows Part 2 (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959688
 
-#EXTINF:-1,BS Asahi (New!)
-http://203.162.235.41:16914
-#EXTINF:-1,BS Fuji (New!)
-http://203.162.235.41:16911
-#EXTINF:-1,BS Japan (New!)
-http://203.162.235.41:16915
-#EXTINF:-1,BS NTV (New!)
-http://203.162.235.41:16912
-#EXTINF:-1,BS TBS (New!)
-http://203.162.235.41:16913
-#EXTINF:-1,Fuji TV (New!)
-http://203.162.235.41:16904
-#EXTINF:-1,GSTV
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-#EXTINF:-1,MBS (New!)
-http://203.162.235.41:16910
-#EXTINF:-1,NHK General (New!)
-http://203.162.235.41:16903
-#EXTINF:-1,NHK World Premium (New!)
-http://203.162.235.41:16901
-#EXTINF:-1,NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1,Nippon TV (New!)
-http://203.162.235.41:16905
