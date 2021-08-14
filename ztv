@@ -16,3 +16,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959686
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
 #EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Deathly Hallows Part 2 (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959688
+
+#EXTINF:-1 tvg-id="Asahi.jp" tvg-logo="https://www.tv-asahi.co.jp/ips/contents/Topics/0001/img/0_28.jpg" group-title="JapanTV",TV Asahi
+http://itskoi.dothome.co.kr/jpn.php?id=B031
