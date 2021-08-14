@@ -14,12 +14,14 @@ https://tvasahi.mov3.co/hls/tvasahi.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="日本",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK Japan" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo-500x313.png" group-title="日本",NHK Japan
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="NHK総合・東京" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="日本",NHK総合・東京
 https://nhk.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-ID="JAPAN" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.png" group-title="日本",Animax
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-
-
+#EXTINF:-1 tvg-ID="JAPAN" tvg-name="MX" tvg-logo="" group-title="日本",MX
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 
 
 #EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Sorcerers Stone (2001)
@@ -38,58 +40,4 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959686
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
 #EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Deathly Hallows Part 2 (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959688
-
-#EXTM3U
-#EXTINF:-1,iptvtools_1
-https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_3
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1,iptvtools_5
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1,iptvtools_7
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-#EXTINF:-1,iptvtools_11
-http://203.162.235.41:16912
-#EXTINF:-1,iptvtools_13
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1,iptvtools_15
-http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
-#EXTINF:-1,iptvtools_16
-https://fujitv.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1,iptvtools_17
-http://203.162.235.41:16904
-#EXTINF:-1,iptvtools_19
-https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
-#EXTINF:-1,iptvtools_20
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1,iptvtools_27
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,iptvtools_35
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1,iptvtools_37
-https://ntv.mov3.co/hls/ntv.m3u8
-#EXTINF:-1,iptvtools_39
-https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1,iptvtools_41
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1,iptvtools_42
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1,iptvtools_43
-https://tbs.mov3.co/hls/tbs.m3u8
-#EXTINF:-1,iptvtools_45
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:-1,iptvtools_46
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:-1,iptvtools_49
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1,iptvtools_50
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1,iptvtools_52
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1,iptvtools_53
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-#EXTINF:-1,iptvtools_54
-http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-#EXTINF:-1,iptvtools_55
-http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
