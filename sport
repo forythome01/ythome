@@ -1,31 +1,5 @@
 #EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
 http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="رياضات",Al Kass Sports 1 
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="رياضات",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="رياضات",Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="رياضات",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="رياضات",Al Kass Sports Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8
-
-
-#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass2.png",Alkass_2
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016663
-#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass3.png",Alkass_3
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016664
-#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass4.png",Alkass_4
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016665
-#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass5.png",Alkass_5
-https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016666
-
-#EXTINF:-1,AlKass Sports 1
-http://stream-7b694ce7e.nmbs.top/m3u/Sports/f5f9aa5cd1.m3u8
-#EXTINF:-1,AlKass Sports 2
-http://stream-7b694ce7e.nmbs.top/m3u/Sports/b956a6521b.m3u8
-#EXTINF:-1,AlKass Sports 4
-http://stream-7b694ce7e.nmbs.top/m3u/Sports/2d4358357d.m3u8
-#EXTINF:-1,AlKass Sports 5
+#EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/assets/images/logo.png" group-title="DEPORTES",Al Kass Sports | Qatar
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&&
