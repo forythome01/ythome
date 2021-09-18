@@ -21,3 +21,11 @@ https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016664
 https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016665
 #EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass5.png",Alkass_5
 https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016666
+
+#EXTINF:-1,AlKass Sports 1
+http://stream-7b694ce7e.nmbs.top/m3u/Sports/f5f9aa5cd1.m3u8
+#EXTINF:-1,AlKass Sports 2
+http://stream-7b694ce7e.nmbs.top/m3u/Sports/b956a6521b.m3u8
+#EXTINF:-1,AlKass Sports 4
+http://stream-7b694ce7e.nmbs.top/m3u/Sports/2d4358357d.m3u8
+#EXTINF:-1,AlKass Sports 5
