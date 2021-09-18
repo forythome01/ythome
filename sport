@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
 http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 
-XTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="رياضات",Al Kass Sports 1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="رياضات",Al Kass Sports 1 
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="رياضات",Al Kass Sports 2
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
@@ -11,3 +11,13 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="رياضات",Al Kass Sports Online
 https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8
+
+
+#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass2.png",Alkass_2
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016663
+#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass3.png",Alkass_3
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016664
+#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass4.png",Alkass_4
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016665
+#EXTINF:0 group-title="Sports" tvg-logo="https://logo.iptveditor.com/alkass5.png",Alkass_5
+https://m3u-editor.com/serve/ec0307d0-13ad-11eb-889a-fd50af7882bb/122016666
