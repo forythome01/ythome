@@ -6,3 +6,11 @@ http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:0,pptv
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist.m3u8
+
+
+#EXTINF:0,pptv
+https://www.pptvhd36.com/live
+
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="https://www.pngkey.com/png/detail/89-892218_pptv-hd-pptv.png" group-title="Thailand",PPTV HD TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115501
+https://www.pptvhd36.com/live
